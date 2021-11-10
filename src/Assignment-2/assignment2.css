@@ -7,3 +7,89 @@ height: 100%;
 }.main{
     border: 1px solid black;
 }
+/* START FOR Header */
+.header{
+    border: 2px solid black;
+    width: 100%;
+    height: 90px;
+    background-color:rgb(217, 233, 235);
+}
+.logo{
+    float: left;
+    width: 85%;
+    margin-top: 18px;
+    margin-left: 30px;
+}
+.Form{
+    margin-top: 35px;
+}
+.page-header-navigation{
+    border: 2px solid black;
+    width: 100%;
+    height: 45px;
+    margin-top: 3px;
+    
+
+}
+.page-header-navigation .Link1{
+    float: left;
+    margin-left: 208px;
+    margin-top: 16px;
+}
+.page-header-navigation .Link4{
+    float: left;
+    margin-left: 208px;
+    margin-top: 16px;
+}
+/* END For Header */
+
+.left_container{
+    border: 2px solid black;
+    width: 15%;
+    height: 400px;
+    float: left;
+    margin-top: 10px;
+}
+
+#main-content-section{
+    border: 2px solid black;
+    width: 67%;
+    height: 400px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+}
+
+#right-sidebar-menu{
+    border: 2px solid black;
+    width: 15%;
+    height: 400px;
+    float: top;
+    /* float: right; */
+    margin-left: 85%;
+    margin-top: 10px;   
+}
+
+.post-img{
+    display: block;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 1%;
+    overflow: hidden;
+    border-radius: 5px;
+
+}
+#main-content-section img{
+    width: 100%;
+    height: 176px;
+    border-radius: 10px;
+    
+}
+
+#page-footer{
+    border: 2px solid black;
+    width: 100%;
+    height: 110px;
+    margin-top: 10px;
+}
