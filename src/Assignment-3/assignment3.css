@@ -2,6 +2,51 @@
 
 
 .container, .content {
-width: 100%;
-height: 100%;
-}
+    width: 100%;
+    height: 100%;
+    }.main{
+        border: 1px solid black;
+    }
+    /* START FOR Header */
+    .header{
+        border: 2px solid black;
+        width: 100%;
+        height: 90px;
+        background-color:rgb(245, 241, 15);
+    }
+    .logo{
+        float: left;
+        width: 85%;
+        margin-top: 18px;
+        margin-left: 30px;
+    }
+    .header.title{
+        float: right;
+        width: 85%;
+        margin-top: 18px;
+        margin-left: 50px;
+    }
+    
+    
+    /* END For Header */
+    
+    .left_container{
+        border: 2px solid orange;
+        width: 48%;
+        height: 400px;
+        float: left;
+        margin-top: 30px;
+        text-align: center;
+        background-color:rgb(245, 15, 15);
+    } 
+    #right-sidebar-menu{
+        border: 2px solid black;
+        width: 48%;
+        height: 400px;
+        float: right;
+        margin-top: 30px;
+        text-align: center;
+        background-color:rgb(88, 245, 15);  
+    }
+    
+   
