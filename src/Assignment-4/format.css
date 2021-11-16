@@ -1,0 +1,36 @@
+.container{
+	border: 1.5px solid black;
+	width:100%;
+	height:750px;
+	background-color:lightgray;
+}
+
+p{
+	margin:10px;
+	color:brown;
+	font-weight:bold;
+	background-color:#bbfadb;
+}
+
+.weeks, .months, .season{
+	display:inline-block;
+	vertical-align:top;
+	margin-left:200px;
+	color:#fa0505;
+	font-weight:900;
+}
+
+.weeks ul li{
+	list-style-type:square;
+	line-height:2rem;
+}
+
+.months ol li{
+	line-height:1.5rem;
+	list-style-type: lower-roman;
+}
+
+.season ul li{
+	list-style-type:circle;
+	line-height:1.3rem;
+}
