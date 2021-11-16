@@ -2,12 +2,12 @@
 	border: 1.5px solid black;
 	width:100%;
 	height:750px;
-	background-color:lightgray;
+	background-color:white;
 }
 
 p{
 	margin:10px;
-	color:brown;
+	color:black;
 	font-weight:bold;
 	background-color:#bbfadb;
 }
@@ -16,7 +16,7 @@ p{
 	display:inline-block;
 	vertical-align:top;
 	margin-left:200px;
-	color:#fa0505;
+	color:blue;
 	font-weight:900;
 }
 
